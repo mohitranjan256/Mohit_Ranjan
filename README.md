@@ -1,4 +1,4 @@
-<a href="#"><img width="auto" src="https://cdn.dribbble.com/users/1681407/screenshots/3460198/attachments/760876/test-8.gif" height="auto"/></a>
+<a href="#"><img width="100%" src="https://cdn.dribbble.com/users/1681407/screenshots/3460198/attachments/760876/test-8.gif" height="auto"/></a>
 
 <h1 align="center">Hi <img src="https://img.icons8.com/emoji/48/undefined/waving-hand-emoji.png" />, I'm Mohit Ranjan</h1>
 <h3 align="center">I'm a pre-final year B.Tech student, from NIT JAMSHEDPUR.</h3>
