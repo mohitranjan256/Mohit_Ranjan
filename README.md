@@ -61,7 +61,7 @@
 
 <a href = "https://www.linkedin.com/in/mohit-ranjan-6a4a27203"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://www.codechef.com/users/coolmohit_256"><img src="https://img.icons8.com/fluency/48/undefined/codechef.png"/></a>
-     <a href = "https://leetcode.com/mohitranjan256/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+     <a href = "https://leetcode.com/mohitranjan256/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png"/></a>
    <a href = "https://www.geeksforgeeks.org/"><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
 </p>
 
