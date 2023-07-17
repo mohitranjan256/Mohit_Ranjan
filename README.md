@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/mohitranjan256/github-readme-activity-graph"><img alt="Mohit Ranjan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohitranjan256&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mohitranjan256/github-readme-activity-graph"><img alt="Mohit Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohitranjan256&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
