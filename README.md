@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **NextJS,SpringBoot**
 
+- 💬 Solved **1000+ Data Structure and Algorithm Problems on various platform like Leetcode,Coding Ninja,GFG,etc.**
+- 
 - 💬 Ask me about **ReactJS,Javascript,NodeJS,ExpressJS,MongoDB**
 
 - 📫 How to reach me **mohitranjan256@gmail.com**
